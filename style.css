@@ -749,16 +749,8 @@ footer {
         padding: 25px 20px;
     }
 
-    .contact-email {
-        justify-self: center;
-    }
-
-    .contact-email span {
+    .contact-item span {
         font-size: 14px;
-    }
-
-    .contact-social {
-        justify-content: center;
     }
 }
 
@@ -771,4 +763,5 @@ footer {
     .hero-image img {
         margin-top: 40px;
     }
+
 }
